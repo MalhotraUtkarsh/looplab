@@ -5,7 +5,7 @@ html{
     opacity: 0.8;
 }
 #home-section{
-background: url(/images/home.jpg);
+background: url(images/home.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
